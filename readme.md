@@ -1,6 +1,6 @@
 ## Objetivo
 
-automatizar uma operação na calculadora android
+automatizar uma operação matemática na calculadora android
  
 ## Pré-Condições
 
@@ -9,6 +9,7 @@ automatizar uma operação na calculadora android
 3. Utilize BDD (Cucumber)
 4. Appium
 5. TestNg ou Junit
+6. organize os commits de acordo com cada feature implementada
 
 
 ### Cenário a ser automatizado
@@ -19,12 +20,13 @@ automatizar uma operação na calculadora android
 
 ## Entrega do Projeto
 
-Faça um *Fork* do projeto atual
+Faça um *Fork* deste projeto
 
 #### O que será avaliado
 
 * lógica
 * boa organização do código
+* utilização do git
 * domínio das ferramentas
 
 Boa sorte!
